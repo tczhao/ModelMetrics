@@ -5,7 +5,7 @@ Date: 2018-07-20
 Authors@R: person("Tyler", "Hunt", email = "thunt@snapfinance.com", role = c("aut", "cre"))
 Description: Collection of metrics for evaluating models written in C++ using 'Rcpp'.
 Depends:
-    R (>= 3.2.2)
+    R (>= 3.2.0)
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
